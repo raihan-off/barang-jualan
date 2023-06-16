@@ -1,0 +1,13 @@
+[
+    {
+    "nama": "Barang 1",
+    "harga": 25000,
+    "imageId": "barang1"
+    },
+    {
+    "nama": "Barang 2",
+    "harga": 50000,
+    "imageId": "barang2"
+    }
+]
+    
